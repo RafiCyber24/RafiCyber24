@@ -1,38 +1,21 @@
 # 👋 Hello, I'm Rafi!
 I’m a 2nd year cybersecurity student at Nottingham Trent University with hands-on experience in network security, information defense, and risk assessment. Currently expanding my knowledge through coursework, real-world projects, and a recent virtual internship with PwC Switzerland’s cybersecurity team. 
 
-### 💡 **What I’m Learning**
-
-- **Vulnerability Management:** Identifying, assessing, and mitigating vulnerabilities in systems to reduce potential threats.
-- **Network Security:** Studying advanced concepts such as network segmentation, firewall configuration, and intrusion detection/prevention systems.
-- **Penetration Testing:** Learning ethical hacking techniques, vulnerability assessments, and penetration testing methodologies using industry tools.
-- **Cryptography and Data Protection:** Exploring encryption techniques and secure communication protocols to ensure data integrity and confidentiality.
-- **Risk Management and Compliance:** Understanding risk assessment, threat modeling, and compliance with cybersecurity regulations like GDPR and ISO 27001.
-
----
 #### 📂 **What I’m Working On Now**
-
 - **Penetration Testing Simulation:** Simulating penetration tests to identify and exploit vulnerabilities in a controlled environment, documenting findings for improvement.
 - **Risk Assessment Framework:** Developing a customized risk assessment framework for a hypothetical organization, assessing its digital assets and proposing security measures.
 - **Network Defense Lab:** Designing a secure network architecture, configuring firewalls, VPNs, and intrusion detection systems to protect against external threats.
 - **Threat Mitigation Strategy:** Collaborating on strategies to mitigate common cyber threats, including phishing and ransomware attacks, for a local non-profit.
 
----
+
 #### 🔍 **What I’m Looking For**
 
 - **Cybersecurity Internship/Role:** I’m actively seeking internship opportunities where I can apply my skills in penetration testing, vulnerability management, and network security.
 - **Mentorship and Growth:** Looking for a team-oriented environment where I can learn from industry professionals, expand my cybersecurity knowledge, and refine my skills.
-- **Digital Security Focus:** Interested in roles that focus on securing IT infrastructures, protecting sensitive data, and ensuring compliance with the latest security frameworks.
-- **Proactive Security Team:** Seeking a role in a proactive security team that emphasizes threat hunting, network defense, and innovative cybersecurity solutions.
 
----
-
-#### 🌐 **Let’s Connect!**
+ 🌐 **Let’s Connect!**
 
 - [LinkedIn](https://www.linkedin.com/in/r-rafi-cybersecurity)
-
-
----
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects, and let me know if you’d like to collaborate or connect.
 
