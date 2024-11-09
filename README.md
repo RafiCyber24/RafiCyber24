@@ -2,16 +2,16 @@
 I’m a 2nd year cybersecurity student at Nottingham Trent University with hands-on experience in network security, information defense, and risk assessment. Currently expanding my knowledge through coursework, real-world projects, and a recent virtual internship with PwC Switzerland’s cybersecurity team. 
 
 #### 📂 **What I’m Working On Now**
-- **Penetration Testing Simulation:** Simulating penetration tests to identify and exploit vulnerabilities in a controlled environment, documenting findings for improvement.
-- **Risk Assessment Framework:** Developing a customized risk assessment framework for a hypothetical organization, assessing its digital assets and proposing security measures.
-- **Network Defense Lab:** Designing a secure network architecture, configuring firewalls, VPNs, and intrusion detection systems to protect against external threats.
-- **Threat Mitigation Strategy:** Collaborating on strategies to mitigate common cyber threats, including phishing and ransomware attacks, for a local non-profit.
+- **Penetration Testing Simulation:** Identifying vulnerabilities and documenting findings to enhance system security.
+- **Risk Assessment Framework:** Developing a custom framework to evaluate and secure digital assets.
+- **Network Defense Lab:** Designing and securing network architecture using firewalls, VPNs, and intrusion detection systems.
+- **Threat Mitigation Strategy:** Collaborating on strategies to prevent common cyber threats like phishing and ransomware.
 
 
 #### 🔍 **What I’m Looking For**
 
-- **Cybersecurity Internship/Role:** I’m actively seeking internship opportunities where I can apply my skills in penetration testing, vulnerability management, and network security.
-- **Mentorship and Growth:** Looking for a team-oriented environment where I can learn from industry professionals, expand my cybersecurity knowledge, and refine my skills.
+- **Cybersecurity Internship/Role:** Seeking opportunities to apply my skills in penetration testing, vulnerability management, and network security.
+- **Mentorship and Growth:** Eager to join a team that fosters learning and allows me to grow as a cybersecurity professional.
 
  🌐 **Let’s Connect!**
 
