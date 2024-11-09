@@ -13,11 +13,7 @@ I’m a 2nd year cybersecurity student at Nottingham Trent University with hands
 - **Cybersecurity Internship/Role:** Seeking opportunities to apply my skills in penetration testing, vulnerability management, and network security.
 - **Mentorship and Growth:** Eager to join a team that fosters learning and allows me to grow as a cybersecurity professional.
 
- 🌐 **Let’s Connect!**
-
-- [LinkedIn](https://www.linkedin.com/in/r-rafi-cybersecurity)
-
-Feel free to explore my repositories and projects. Let’s collaborate or connect!
+Feel free to explore my projects. Down below⬇️
 
 <!--
 **RafiCyber24/RafiCyber24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
