@@ -2,16 +2,16 @@
 I’m a 2nd year cybersecurity student at Nottingham Trent University with hands-on experience in network security, information defense, and risk assessment. Currently expanding my knowledge through coursework, real-world projects, and a recent virtual internship with PwC Switzerland’s cybersecurity team. 
 
 #### 📂 **What I’m Working On Now**
-- Penetration Testing Simulation:** Identifying vulnerabilities and documenting findings to enhance system security.
-- Risk Assessment Framework:** Developing a custom framework to evaluate and secure digital assets.
-- Network Defense Lab:** Designing and securing network architecture using firewalls, VPNs, and intrusion detection systems.
-- Threat Mitigation Strategy:** Collaborating on strategies to prevent common cyber threats like phishing and ransomware.
+- Penetration Testing Simulation: Identifying vulnerabilities and documenting findings to enhance system security.
+- Risk Assessment Framework: Developing a custom framework to evaluate and secure digital assets.
+- Network Defense Lab: Designing and securing network architecture using firewalls, VPNs, and intrusion detection systems.
+- Threat Mitigation Strategy: Collaborating on strategies to prevent common cyber threats like phishing and ransomware.
 
 
 #### 🔍 **What I’m Looking For**
 
-- Cybersecurity Internship/Role:** Seeking opportunities to apply my skills in penetration testing, vulnerability management, and network security.
-- Mentorship and Growth:** Eager to join a team that fosters learning and allows me to grow as a cybersecurity professional.
+- Cybersecurity Internship/Role: Seeking opportunities to apply my skills in penetration testing, vulnerability management, and network security.
+- Mentorship and Growth: Eager to join a team that fosters learning and allows me to grow as a cybersecurity professional.
 
 Feel free to explore my projects. Down below⬇️
 
