@@ -17,7 +17,7 @@ I’m a 2nd year cybersecurity student at Nottingham Trent University with hands
 
 - [LinkedIn](https://www.linkedin.com/in/r-rafi-cybersecurity)
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and projects, and let me know if you’d like to collaborate or connect.
+Feel free to explore my repositories and projects. Let’s collaborate or connect!
 
 <!--
 **RafiCyber24/RafiCyber24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
