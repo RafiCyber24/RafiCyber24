@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Rafi!
-I’m a 2nd year cybersecurity student at Nottingham Trent University with hands-on experience in network security, information defense, and risk assessment. Currently expanding my knowledge through coursework, real-world projects, and a recent virtual internship with PwC Switzerland’s cybersecurity team. 
+I’m a 2nd year cybersecurity student at Nottingham Trent University with hands-on experience in network security, information defense, and risk assessment. Currently expanding my knowledge through coursework, real-world projects.
 
 #### 📂 **What I’m Working On Now**
 - Penetration Testing Simulation: Identifying vulnerabilities and documenting findings to enhance system security.
