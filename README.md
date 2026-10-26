@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Rafi! 
-I’m a 2nd year cybersecurity student at Nottingham Trent University with hands-on experience in network security, information defense, and risk assessment. Currently expanding my knowledge through coursework, real-world projects.
+I’m a final year cybersecurity student at Nottingham Trent University with hands-on experience in network security, information defense, and risk assessment. Currently expanding my knowledge through coursework, real-world projects.
 
 #### 📂 **What I’m Working On Now**
-- Penetration Testing Simulation: Identifying vulnerabilities and documenting findings to enhance system security.
-- Risk Assessment Framework: Developing a custom framework to evaluate and secure digital assets.
-- Network Defense Lab: Designing and securing network architecture using firewalls, VPNs, and intrusion detection systems.
-- Threat Mitigation Strategy: Collaborating on strategies to prevent common cyber threats like phishing and ransomware.
 
+- Cybersecurity & Vulnerability Assessment: Learning to identify security vulnerabilities, analyse cyber threats, and evaluate tools to protect computer systems and networks.
+- Digital Forensics & Cybercrime Investigation: Studying cybercrime investigation, legal considerations, and techniques for collecting and handling digital evidence.
+- Emerging Cybersecurity Technologies: Exploring IoT security, cryptography, privacy-enhancing technologies, anonymity, and big data security analysis.
+- Enterprise Systems Deployment: Developing an understanding of how to manage the build, deployment, and security of enterprise and internet-based information systems for small to medium-sized organisations.
 
 #### 🔍 **What I’m Looking For**
 
