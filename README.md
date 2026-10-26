@@ -10,8 +10,7 @@ I’m a final year cybersecurity student at Nottingham Trent University with han
 
 #### 🔍 **What I’m Looking For**
 
-- Cybersecurity Internship/Role: Seeking opportunities to apply my skills in penetration testing, vulnerability management, and network security.
-- Mentorship and Growth: Eager to join a team that fosters learning and allows me to grow as a cybersecurity professional.
+- Cybersecurity Roles: Seeking opportunities as a Junior Cyber Security Analyst, SOC Analyst (Tier 1&2), Junior Penetration Tester, Information Security Analyst, IT Security Analyst, or Junior Digital Forensics Analyst.
 
 Feel free to explore my projects. Down below⬇️
 
